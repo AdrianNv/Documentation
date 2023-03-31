@@ -1,3 +1,8 @@
 #navbar{
     
 }
+@media(max-width: 450px){
+    body{
+    background-color: white;
+    }
+    }
